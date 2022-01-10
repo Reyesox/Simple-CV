@@ -1,0 +1,85 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.nav a {
+  text-decoration: none;
+}
+.nav {
+  width: 20%;
+  height: 100%;
+  text-decoration: none;
+  background-color: #435058;
+}
+.nav ul {
+  text-align: start;
+  list-style: none;
+}
+.nav ul li {
+  padding-top: 0.5rem;
+}
+.nav ul li a {
+  color: white;
+}
+.nav ul li a:hover {
+  color: #dcf763;
+}
+.yo {
+  width: 90%;
+  height: auto;
+  border-radius: 50%;
+  border: 4px solid #848c8e;
+}
+
+.content {
+  padding-left: 20%;
+}
+.content ul {
+  list-style: none;
+}
+
+.titulo {
+  line-height: 1;
+  margin-top: 10rem;
+  margin-bottom: 0;
+}
+.subtitulo {
+  line-height: 1;
+  margin-top: 0;
+  font-size: 1.2rem;
+}
+
+.about {
+  padding-top: 2rem;
+}
+.contacto {
+  font-size: 2rem;
+}
+.contacto a {
+  text-decoration: none;
+  padding-inline: 1.15rem;
+  padding-top: 2rem;
+  color: #dcf763;
+}
+.subtitulos {
+  line-height: 1;
+  margin-top: 0;
+  font-size: 2rem;
+}
+.formacion {
+  min-height: 45vh;
+}
+.azul {
+  background-color: #435058;
+}
+.gris {
+  background-color: #848c8e;
+}
+.amarillo {
+  color: #dcf763;
+}
+.amarillof {
+  background-color: #dcf763;
+}
+.blanco {
+  color: white;
+}
